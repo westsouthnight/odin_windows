@@ -114,9 +114,9 @@ $RelConfigurationDIRGateways = "e$\wwwsites\example\application.example.com\Rel\
 $From = "auto.report@example.ru"
 $To = "deploy@example.ru"
 $subject = "$env AUTO UPDATE: Deploy Mailer"
-$SMTPServer = "md2.example.loc"
+$SMTPServer = "mail2.example.loc"
 $SMTPUsername = "auto.report@example.ru"
-$SMTPPassword = "7539148620qQ"
+$SMTPPassword = "EXAMPLE_TXT"
 $global:SMTPPort = "25"
 $emailattachment = $logfile.path
 

@@ -158,7 +158,7 @@ switch ($env)
 						$global:To = "admins@example.ru", "testers@example.ru", "support@example.ru", "pmo@example.ru", "commerce@example.ru", "developers@example.ru"
 					}
 				"DEV" { 
-						$global:To = "admins@example.ru", "a.igumnov@example.ru"
+						$global:To = "admins@example.ru", "robot_ai@example.ru"
 					}
 				
 				default {logstamp; Write-Host " Функция ожидания решения $FunctionNG : Стандартное значение продолжить процесс";}
@@ -357,7 +357,7 @@ switch ($env)
 						$global:To = "admins@example.ru", "testers@example.ru", "support@example.ru", "pmo@example.ru", "commerce@example.ru", "developers@example.ru"
 					}
 				"DEV" { 
-						$global:To = "admins@example.ru", "a.igumnov@example.ru"
+						$global:To = "admins@example.ru", "robot_ai@example.ru"
 					}
 				
 				default {logstamp; Write-Host " Функция ожидания решения $FunctionNG : Стандартное значение продолжить процесс";}

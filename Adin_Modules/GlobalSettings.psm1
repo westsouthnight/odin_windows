@@ -149,8 +149,8 @@ $global:apptimerappsettings = "E$\wwwsites\example\app-timer\AppSettings.Config"
   
 $global:Memcacheservice = "memcached Server"
 $global:Memcacheservers = @{
-	"md1" = "md1";
-	"md2" = "md2";
+	"mail1" = "mail1";
+	"mail2" = "mail2";
 	}
 
 #########################################################
