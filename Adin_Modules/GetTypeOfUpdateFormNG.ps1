@@ -155,7 +155,7 @@ switch ($env)
 						$global:To = "admins@example.ru", "testers@example.ru", "support@example.ru"
 					}
                 "LIVE" { 
-						$global:To = "admins@example.ru", "testers@example.ru", "support@example.ru", "pmo@example.ru", "commerce@example.ru", "developers@example.ru"
+						$global:To = "admins@example.ru", "testers@example.ru", "support@example.ru", "robo_check@example.ru", "commerce@example.ru", "developers@example.ru"
 					}
 				"DEV" { 
 						$global:To = "admins@example.ru", "robot_ai@example.ru"
@@ -354,7 +354,7 @@ switch ($env)
 						$global:To = "admins@example.ru", "testers@example.ru", "support@example.ru"
 					}
                 "LIVE" { 
-						$global:To = "admins@example.ru", "testers@example.ru", "support@example.ru", "pmo@example.ru", "commerce@example.ru", "developers@example.ru"
+						$global:To = "admins@example.ru", "testers@example.ru", "support@example.ru", "robo_check@example.ru", "commerce@example.ru", "developers@example.ru"
 					}
 				"DEV" { 
 						$global:To = "admins@example.ru", "robot_ai@example.ru"
