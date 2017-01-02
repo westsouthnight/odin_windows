@@ -154,7 +154,7 @@ switch ($env)
 				"STAGE" { 
 						$global:To = "admins@example.ru", "testers@example.ru", "support@example.ru"
 					}
-                "LIVE" { 
+        "LIVE" { 
 						$global:To = "admins@example.ru", "testers@example.ru", "support@example.ru", "robo_check@example.ru", "commerce@example.ru", "developers@example.ru"
 					}
 				"DEV" { 
